@@ -1,1 +1,3 @@
-# menu_temp.sh
+### menu_temp.sh
+
+Template for multi tabbed menu scripts
