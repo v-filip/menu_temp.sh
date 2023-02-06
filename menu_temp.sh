@@ -42,9 +42,7 @@ sub_menu_one() {
 			*)
 				echo "Invalid selection"
 		esac
-		echo
-		read -p "<>Press any key to clear...<>"
-		clear
+		clear_skip
 	done
 }
 
@@ -79,9 +77,7 @@ sub_menu_two() {
 				echo "Invalid selection"
 				;;
 		esac
-		echo
-		read -p "<>Press any key to clear...<>"
-		clear
+		clear_skip
 	done
 }
 
